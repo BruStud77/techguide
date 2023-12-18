@@ -1,6 +1,6 @@
 # Full-stack
 ## Nivel 1
-- [ ] **HTML - Fundamentos**:
+- [ X ] **HTML - Fundamentos**:
    - HTML é uma linguagem de marcação que define a estrutura do seu conteúdo. HTML consiste em uma série de elementos que você usa para mostrar algo de uma determinada maneira ou agir de uma certo modo. As tags podem criar um hiperlink de uma palavra ou imagem para outro lugar, podem colocar palavras em itálico, podem aumentar ou diminuir a fonte e assim por diante.
    - Aprender quais tags são necessárias para um HTML básico
    - Criar um parágrafo de texto
